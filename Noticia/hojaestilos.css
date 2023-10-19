@@ -1,0 +1,58 @@
+/*p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: large;
+}*/
+
+body{
+    background: beige;
+}
+header{
+    width: 100%;
+    height: auto;
+    background: rgb(178, 215, 171);
+}
+header img{
+    width: 25%;
+}
+
+main{
+    font-size: large;
+    position: relative;
+
+}
+main h1{
+    background-color: green;
+}
+
+.precolombina{
+    width: 70%;
+    text-align: justify;
+    font-size: large;
+}
+.precolombina img{
+    width: 80%;
+}
+.industrial{
+    width: 70%;
+    text-align: justify;
+    font-size: large;
+}
+.industrial img{
+    width: 80%;
+}
+.carteles{
+    width: 70%;
+    text-align: justify;
+    font-size: large;
+}
+.carteles img{
+    width: 80%;
+}
+footer{
+    width: 100%;
+    height: auto;
+    background: rgb(178, 215, 171);
+}
+footer img{
+    width: 25%;
+}
